@@ -9,6 +9,8 @@
 ![Jquery](https://img.shields.io/badge/-Jquery-46a2f1?style=for-the-badge&logo=Jquery&logoColor=ffffff)
 ![Vue](https://img.shields.io/badge/-Vue.js-43853d?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+- 🤔 Find me : ![Velog](https://img.shields.io/badge/-Velog-brightgreen?style=for-the-badge&logo=Velog&logoColor=ffffff)
+![Github](https://img.shields.io/badge/-Github-lightgrey?style=for-the-badge&logo=Github&logoColor=ffffff)
 <!--
 **manjyuriah/manjyuriah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
